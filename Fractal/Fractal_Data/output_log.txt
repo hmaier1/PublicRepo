@@ -1,0 +1,63 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1136 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.489 seconds
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\H\Documents\PublicRepo\Fractal\Fractal_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.459002 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2b44 -> priority: 1 
+  Thread -> id: 25b4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.131462 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.727436 ms (FindLiveObjects: 0.038061 ms CreateObjectMapping: 0.056022 ms MarkObjects: 0.490089 ms  DeleteObjects: 0.142408 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.185156 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.617957 ms (FindLiveObjects: 0.050462 ms CreateObjectMapping: 0.047897 ms MarkObjects: 0.366070 ms  DeleteObjects: 0.152671 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.183017 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.707337 ms (FindLiveObjects: 0.032073 ms CreateObjectMapping: 0.032501 ms MarkObjects: 0.474266 ms  DeleteObjects: 0.167639 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.191570 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.567494 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.345543 ms  DeleteObjects: 0.154382 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.049869 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.548678 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.032929 ms MarkObjects: 0.328864 ms  DeleteObjects: 0.150533 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.841751 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 195.
+Total: 0.554665 ms (FindLiveObjects: 0.034212 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.332713 ms  DeleteObjects: 0.154382 ms)
+
