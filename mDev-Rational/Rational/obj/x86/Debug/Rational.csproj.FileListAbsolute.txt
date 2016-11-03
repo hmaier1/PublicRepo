@@ -1,0 +1,4 @@
+C:\Users\H\Documents\Projects\Rational\Rational\bin\Debug\Rational.exe
+C:\Users\H\Documents\Projects\Rational\Rational\bin\Debug\Rational.pdb
+C:\Users\H\Documents\Projects\Rational\Rational\obj\x86\Debug\Rational.exe
+C:\Users\H\Documents\Projects\Rational\Rational\obj\x86\Debug\Rational.pdb

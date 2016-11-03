@@ -1,0 +1,8 @@
+C:\Users\H\Documents\Projects\courseclass\courseclass\bin\Debug\courseclass.exe
+C:\Users\H\Documents\Projects\courseclass\courseclass\bin\Debug\courseclass.pdb
+C:\Users\H\Documents\Projects\courseclass\courseclass\obj\x86\Debug\courseclass.exe
+C:\Users\H\Documents\Projects\courseclass\courseclass\obj\x86\Debug\courseclass.pdb
+C:\Users\H\Documents\PublicRepo\mDev- courseclass\courseclass\obj\x86\Debug\courseclass.exe
+C:\Users\H\Documents\PublicRepo\mDev- courseclass\courseclass\obj\x86\Debug\courseclass.pdb
+C:\Users\H\Documents\PublicRepo\mDev- courseclass\courseclass\bin\Debug\courseclass.exe
+C:\Users\H\Documents\PublicRepo\mDev- courseclass\courseclass\bin\Debug\courseclass.pdb

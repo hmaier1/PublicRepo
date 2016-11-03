@@ -1,0 +1,4 @@
+C:\Users\H\Documents\Projects\mDev-MoreOperations\mDev-MoreOperations\bin\Debug\mDev-MoreOperations.exe
+C:\Users\H\Documents\Projects\mDev-MoreOperations\mDev-MoreOperations\bin\Debug\mDev-MoreOperations.pdb
+C:\Users\H\Documents\Projects\mDev-MoreOperations\mDev-MoreOperations\obj\x86\Debug\mDev-MoreOperations.exe
+C:\Users\H\Documents\Projects\mDev-MoreOperations\mDev-MoreOperations\obj\x86\Debug\mDev-MoreOperations.pdb

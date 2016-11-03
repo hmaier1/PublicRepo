@@ -1,0 +1,4 @@
+C:\Users\H\Documents\PublicRepo\Phone\Phones\Phones\bin\Debug\Phones.exe
+C:\Users\H\Documents\PublicRepo\Phone\Phones\Phones\bin\Debug\Phones.pdb
+C:\Users\H\Documents\PublicRepo\Phone\Phones\Phones\obj\x86\Debug\Phones.exe
+C:\Users\H\Documents\PublicRepo\Phone\Phones\Phones\obj\x86\Debug\Phones.pdb
